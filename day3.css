@@ -1,0 +1,19 @@
+.cal {
+    padding: 10px;
+    border-radius: 1em;
+    height: 380px;
+    width: 400px;
+   }
+   .box {
+    border: solid black 0.5px;
+    color: black;
+    width: 100%;
+    height:50%;
+   }
+   .button {
+    border: solid black 0.5px;
+    width: 100%;
+    height:50%;
+    border-radius: 5px;
+   }
+  
